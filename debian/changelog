@@ -1,0 +1,7 @@
+apertium-mlt-ara (0.1.0~r57554-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+  * No significant changes in svn since tarball, so taking directly from svn
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 08 Oct 2015 12:20:39 +0530
